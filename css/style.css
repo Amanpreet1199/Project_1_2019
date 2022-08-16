@@ -1,0 +1,123 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+/* navbar section css*/
+.navbar {
+	background-color: black;
+}
+.nav-link,
+.navbar-brand {
+	color: white;
+}
+.nav-link {
+	padding-left: 20px !important;
+	padding-right: 20px !important;
+}
+.nav-link:hover {
+	color: white;
+	background-color: #2a80b9;
+	border-radius: 2px;
+}
+
+/* navbar section css*/
+
+/* banner section css*/
+.banner {
+	height: 500px;
+	background: no-repeat;
+	background-size: cover;
+}
+.jumbotron {
+	background-image: url("../images/pic1.png");
+	text-align: center;
+	color: white;
+	margin-bottom: 0px !important;
+}
+.button {
+	color: white;
+	background-color: #2a80b9;
+	border: 2px solid white !important;
+}
+.text {
+	padding-bottom: 20px;
+}
+/* banner section ends css*/
+
+/* main section css */
+/* row-1 of main css starts */
+.q {
+	background-color: #dcdade;
+	color: grey;
+}
+.pro {
+	color: white;
+	background-color: deepskyblue;
+	padding: 0px 4px;
+}
+.quote {
+	text-align: center;
+	font-size: 2em;
+	width: 1000px;
+	padding: 30px 0px;
+	margin: 0 auto !important;
+}
+/* row-1 of main css ends */
+/* row-2 of main css starts */
+.row-2 {
+	margin: 10px 0px;
+	text-align: justify;
+}
+
+.row-2 .card {
+	padding: 20px;
+	text-align: center;
+	background-color: #dcdade;
+}
+.row-2 .card i {
+	font-size: 25px;
+	color: deepskyblue;
+	width: 68px;
+	background: #fff;
+	padding: 20px;
+	border-radius: 50px;
+}
+.resp {
+	color: deepskyblue;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+/* row-2 of main css ends */
+/* row-3 of main css starts */
+.row-3 .col-md-8 {
+	margin: 10px 0px;
+	text-align: center;
+}
+.pack {
+	background-color: darkslategrey;
+	color: white;
+}
+
+/* row-3 of main css ends */
+/* main section css */
+/* footer section css start */
+.footer {
+	text-align: center;
+	background-color: #2a80b9;
+	padding-top: 2%;
+	color: #dcdade;
+}
+.footer i {
+	font-size: 40px;
+	padding: 20px;
+	color: #529bc8;
+}
+.blockquote-footer {
+	background-color: black;
+	color: white;
+	font-size: 20px !important;
+	padding: 10px 0px;
+}
+
+/* footer section css  ends */
